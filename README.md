@@ -18,5 +18,5 @@
 *****
 [google](http://www.google.com)
 
-Picture/JPG1.png<img width="490" height="105" alt="image" src="https://github.com/user-attachments/assets/94602152-740f-4a18-a4fa-a52839c00e8a" 
+![JPG1](/Picture/JPG1.png) 
 
