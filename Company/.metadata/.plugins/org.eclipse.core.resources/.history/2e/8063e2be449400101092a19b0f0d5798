@@ -1,0 +1,42 @@
+package com;
+
+public class Ex1 {
+
+	private String name;
+	int wash;
+	int body;
+	int foot;
+	int ear;
+	
+	public int getWash() {
+		return wash;
+	}
+	public void setWash(int wash) {
+		this.wash = wash;
+	}
+	public int getBody() {
+		return body;
+	}
+	public void setBody(int body) {
+		this.body = body;
+	}
+	public int getFoot() {
+		return foot;
+	}
+	public void setFoot(int foot) {
+		this.foot = foot;
+	}
+	public int getEar() {
+		return ear;
+	}
+	public void setEar(int ear) {
+		this.ear = ear;
+	}
+		
+   
+	
+	
+	
+	
+	
+}
