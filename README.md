@@ -40,6 +40,11 @@ This is an H2
 2.  McHale
 3.  Parish
 
+*   A list item with a blockquote:
+
+    > This is a blockquote
+    > inside a list item.
+
 
 
 
