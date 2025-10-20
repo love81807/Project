@@ -18,5 +18,5 @@
 *****
 [google](http://www.google.com)
 
-<p><code>There is a literal backtick (`) here.</code></p>
+
 
