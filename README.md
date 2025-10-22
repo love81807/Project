@@ -19,9 +19,9 @@ GroupBuyingShopSystem/
 
 *****
 
-|   類 別   |   技 術   | 
-|  -------- | --------  |
-| Text     | Text     |
+|   類 別   |   技 術      | 
+| --------  | --------     |
+|   語 言   |   Java 8     |
 
 *****
 [google](http://www.google.com)
