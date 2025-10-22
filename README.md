@@ -19,8 +19,8 @@ GroupBuyingShopSystem/
 
 *****
 
-|   類 別   |   技 術      | 
-| --------  | --------     |
+|   類 別   |  技 術         | 
+| --------  | --------      |
 語言        |  Java 8
 框架        |  Maven Project
 UI          |  Swing
