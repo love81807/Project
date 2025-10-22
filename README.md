@@ -1,6 +1,10 @@
 # Group
     > 會員才能購買並享有優惠價格
     > 有權限的團購主才能登入後台管理商品
+*   # Group:
+
+    > This is a blockquote
+    > inside a list item.
 
 
 ### 一、專案結構
@@ -42,10 +46,7 @@ UI          |  Swing
 3.  Parish
    
 
-*   A list item with a blockquote:
 
-    > This is a blockquote
-    > inside a list item.
 
 
 
