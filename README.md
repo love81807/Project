@@ -29,33 +29,6 @@ UI          |  Swing
 匯出功能    |  Apache POI (HSSF for .xls)
 架構模式    |  MVC + DAO
 
-| 建議                     | 說明                                                |
-| ---------------------- | ------------------------------------------------- |
-| 💡 使用 `service` 層做邏輯處理 | 減少 `controller` 與 `dao` 直接耦合                      |
-| 💡 DAO 命名規範            | 每個表格對應一個 DAO，例如 `MemberDaoImpl`, `ProductDaoImpl` |
-| 💡 避免 Swing 內直接呼叫 SQL  | 改由 `service` 層呼叫 `dao`                            |
-| 💡 匯出功能封裝於 `util`      | 保持程式結構乾淨且易於維護                                     |
-
-
-
-
-
-
-
-*****
-[google](http://www.google.com)
-
-![JPG1](/Picture/JPG1.png) 
-
-*****
-
-\_ \* \+
-
-This is an H1
-=============
-
-This is an H2
--------------
 
 *   Red
 *   Green
