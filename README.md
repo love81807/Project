@@ -21,14 +21,13 @@ GroupBuyingShopSystem/
 
 |   類 別   |   技 術      | 
 | --------  | --------     |
-語言	          Java 8
-框架	       Maven Project
-UI	             Swing
-資料庫	        MySQL 8.x
-連線方式	       JDBC
-匯出功能	    Apache POI (HSSF for .xls)
-例外處理	    自製ExceptionHandler
-架構模式	    MVC + DAO
+語言        |  Java 8
+框架        |  Maven Project
+UI          |  Swing
+資料庫      |  MySQL 8.x
+連線方式    |  JDBC
+匯出功能    |  Apache POI (HSSF for .xls)
+架構模式    |  MVC + DAO
 
 
 
