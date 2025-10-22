@@ -2,7 +2,7 @@
 練習
 
 
-#####一、專案結構
+#### 一、專案結構
 
 GroupBuyingShopSystem/
 
@@ -10,18 +10,18 @@ GroupBuyingShopSystem/
 
 
 
-##### 二、主要功能說明
+#### 二、主要功能說明
 - 團購主登入/商品維護(新增、刪除、修改）
 - 會員註冊、登入與購物
 - 購物車、結帳與找零功能
 - 匯出購物清單至Excel檔案(.xls)
 - MySQL資料庫資料持久化
 
+*****
 
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
+|   類 別   |   技 術   | 
+|  -------- | --------  |
+| Text     | Text     |
 
 *****
 [google](http://www.google.com)
